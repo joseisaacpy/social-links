@@ -27,8 +27,8 @@
 
 /* body */
 body {
-  background: url(https://images.pexels.com/photos/2387793/pexels-photo-2387793.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
-    no-repeat center / cover fixed;
+  background: url(https://w.wallhaven.cc/full/lq/wallhaven-lqvv7r.jpg) no-repeat
+    center / cover fixed;
 }
 
 /* container */
@@ -63,7 +63,6 @@ body {
   border-radius: 50%;
 
   width: 20%;
-
   animation: piscaPisca 1s infinite alternate;
 }
 
@@ -76,7 +75,6 @@ body {
   justify-content: center;
   gap: 20px;
 
-  /* border: 1px solid var(--bg-white); */
 }
 .links a {
   padding: 10px;
@@ -98,10 +96,7 @@ body {
 
 /* footer */
 footer {
-  bottom: 0;
-  position: fixed;
-
-  padding: 10px;
+  padding: 2%;
   color: #fff;
   width: 100%;
 
